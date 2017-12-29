@@ -1,6 +1,7 @@
 # matNG
 
-The intent of this project is to provide deep insite of the new [material] (https://material.angular.io/).
+The intent of this project is to provide deep insite of the new 
+[material](https://material.angular.io/).
 This project illustrate the ease of material design html controls.
 
 ## Development server
